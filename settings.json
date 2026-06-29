@@ -8,7 +8,7 @@
   "server": {
     "ip": "RespawnMC-FFtQ.aternos.me",
     "port": 42123,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
